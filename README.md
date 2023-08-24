@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=header"/>
 
 ### Olá Eu Sou Pedro H. Alarcon 👋
 
@@ -29,6 +29,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-alarcon-459aba186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer"/>
        
 
