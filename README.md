@@ -12,7 +12,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.vercel.com/?user=AlarconPedro&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) -->
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-sigma.vercel.app?user=AlarconPedro&theme=onedark-duo&hide_border=true&locale=pt_BR"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-sigma.vercel.app?user=AlarconPedro&theme=dark&hide_border=true&locale=pt_BR&background=EB545400"/></a>
 </p>
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
