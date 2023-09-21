@@ -51,7 +51,6 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlarconPedro}/count.svg" /></p> 
 <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlarconPedro&theme=neon&hide_border=false"  width="400px" />
 </div>
 
 
