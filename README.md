@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlarconPedro&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&title_color=FFFFFF&icon_color=3CB371&text_color=C0C0C0&bg_color=0d1117" alt="Pedro H. Alarcon github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlarconPedro&layout=full&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlarconPedro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&bg_color=0d1117" />
 </div>
 
 <!-- [![SteveKunG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlarconPedro&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/AlarconPedro) -->
