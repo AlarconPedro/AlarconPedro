@@ -7,10 +7,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlarconPedro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&bg_color=0d1117" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlarconPedro)](https://github.com/AlarconPedro/github-readme-stats)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlarconPedro)](https://github.com/AlarconPedro/github-readme-stats)
 
 [![SteveKunG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlarconPedro&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/AlarconPedro)
-
+-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlarconPedro&bg_color=0d1117&color=FFFFFF&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
