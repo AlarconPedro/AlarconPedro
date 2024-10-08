@@ -23,20 +23,21 @@
 
 <h3>🚀 Minhas Skills</h3>
 
-### Main skills:
+### Main skills
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,cs&perline=4)](https://skillicons.dev)
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
 
-### Ferramentas de Desenvolvimento
+### Dev Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio&perline=4)](https://skillicons.dev)
 
 ### Hobby skills
 [![My Skills](https://skillicons.dev/icons?i=unity&perline=4)](https://skillicons.dev)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) -->
-<!-- <div style="display: inline_block"><br>
+<!-- ### Main skills: 
+<div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
