@@ -18,8 +18,14 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-sigma.vercel.app?user=AlarconPedro&theme=dark&hide_border=true&locale=pt_BR&background=EB545400"/></a>
 </p>
+  
+  
+  
+  <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="330px" max-width="330px" width="330px" align="right" alt="Computador iuriCode">
 
 <h3>🚀 Minhas Skills</h3>
 
@@ -28,6 +34,8 @@
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/vhtnguyen/vhtnguyen/main/assets/Right_Side.gif" min-width="275px" max-width="275px" width="275px" align="right" alt="Computador iuriCode">
 
 ### Dev Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio&perline=4)](https://skillicons.dev)
