@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,cs,nestjs&perline=4)](https://skillicons.dev)
 
 ### DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs&perline=4)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/vhtnguyen/vhtnguyen/main/assets/Right_Side.gif" min-width="275px" max-width="275px" width="275px" align="right" alt="Computador iuriCode">
 
