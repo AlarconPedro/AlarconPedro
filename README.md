@@ -29,8 +29,11 @@
 
 <h3>🚀 Minhas Skills</h3>
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,cs,nestjs,nodejs&perline=4)](https://skillicons.dev)
+### Front-End Main skills
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java&perline=4)](https://skillicons.dev)
+
+### Back-End Main skills
+[![My Skills](https://skillicons.dev/icons?i=docker,nestjs,nodejs,cs&perline=4)](https://skillicons.dev)
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
