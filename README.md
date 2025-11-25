@@ -33,7 +33,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java&perline=4)](https://skillicons.dev)
 
 ### Back-End Main skills
-[![My Skills](https://skillicons.dev/icons?i=docker,nestjs,nodejs,cs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,cs,docker&perline=4)](https://skillicons.dev)
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
