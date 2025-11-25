@@ -30,7 +30,7 @@
 <h3>🚀 Minhas Skills</h3>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,cs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,cs,nestjs&perline=4)](https://skillicons.dev)
 
 ### DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github&perline=4)](https://skillicons.dev)
