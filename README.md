@@ -2,10 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+H.+Alarcon;I'm+24+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
+<div align="center">
+  <img width="100%" src="github-metrics.svg" alt="Pedro H. Alarcon GitHub Metrics" />
+</div>
+
+<!-- <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlarconPedro&show_icons=true&theme=dark&count_private=true&include_all_commits=false&hide_border=true&title_color=FFFFFF&icon_color=3CB371&text_color=C0C0C0&bg_color=0d1117" alt="Pedro H. Alarcon github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlarconPedro&layout=compact&hide_border=true&title_color=FFFFFF&text_color=C0C0C0&bg_color=0d1117" />
-</div>
+</div> -->
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlarconPedro)](https://github.com/AlarconPedro/github-readme-stats)
 
